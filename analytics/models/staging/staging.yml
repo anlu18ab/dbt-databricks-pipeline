@@ -51,7 +51,7 @@ models:
         description: Posting lists Health Insurance among its extensions.
       - name: has_dental_insurance
         description: Posting lists Dental Insurance among its extensions.
-      - name: had_paid_time_off
+      - name: has_paid_time_off
         description: Posting lists Paid Time Off among its extensions.
       - name: has_no_degree_mentioned
         description: Posting lists Degree Mentioned among its extensions.
